@@ -1,0 +1,10 @@
+# Goal
+float32 radius
+---
+# Result
+bool success
+string final_report
+---
+# Feedback
+float32 distance_traveled
+string current_status
